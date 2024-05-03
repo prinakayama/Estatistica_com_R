@@ -10,7 +10,11 @@
 
 
 1. Frequência e Medidas
-
+    * Distribuição de frequência Variaveis Qualitativas, Variaveis Quantitativas, Histograma
+    * Medidas de tendencia central Media Aritmetica, Mediana, Moda
+    * Medidas Separatrizes Quartis, Decis, percentis, Box-plot
+    * Medidas de Dispersão Desvio Medio Absoluto, Variancia, Desvio Padrão
+      
 2.  Probabilidade e Amostragem
 
 3. Testes de Hipóteses
