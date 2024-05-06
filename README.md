@@ -17,7 +17,11 @@
     - Exercício - Análise Descritiva
       
 2.  Probabilidade e Amostragem
-
+    * Distribuição de Probabilidade (Binomial, Poisson, Normal)
+    * Amostragem (População e Amostra, Estratificada, Conglomerados)
+    * Estimação (Teorema do Limite Central, Niveis de confiança e significância, Erro inferencial, Intervalos de confiança)
+    * Cálculo do Tamanho da Amostra (Variáveis Quantitativas e População Infinita, Variáveis Quantitativas e População Finita)
+      
 3. Testes de Hipóteses
 
 4. Correlação e Regressão
