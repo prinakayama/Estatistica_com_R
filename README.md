@@ -23,7 +23,10 @@
     * Cálculo do Tamanho da Amostra (Variáveis Quantitativas e População Infinita, Variáveis Quantitativas e População Finita)
       
 3. Testes de Hipóteses
-
+    * Teste de Normalidade
+    * Testes Paramétricos (Teste Bicaudal, Teste Unicaudal, Teste para Duas Amostras)
+    * Testes Não Paramétricos (Qui-Quadrado, Wilcoxon)
+      
 4. Correlação e Regressão
 
 5. Modelos Estatísticos
