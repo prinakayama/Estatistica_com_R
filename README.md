@@ -28,5 +28,7 @@
     * Testes Não Paramétricos (Qui-Quadrado, Wilcoxon)
       
 4. Correlação e Regressão
-
+    * Correlação (Covariância, Correlação de Pearson)
+    * Regressão Linear (Simples, Mínimos Quadrados, Minimos Quadrados Ordinários, Previsões, Residuos, Erro 𝑢, 𝑅2)
+ 
 5. Modelos Estatísticos
